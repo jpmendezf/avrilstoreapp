@@ -5,7 +5,7 @@ var this_year = DateTime.now().year.toString();
 class AppConfig {
   static String copyright_text = "@ TeamCR " + this_year; //this shows in the splash screen
   static String app_name = "Avril Store"; //this shows in the splash screen
-  static String purchase_code = ""; //enter your purchase code for the app from codecanyon
+  static String purchase_code = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"; //enter your purchase code for the app from codecanyon
 
   //Default language config
   static String default_language = "en";
